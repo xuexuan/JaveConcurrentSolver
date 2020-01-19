@@ -1,4 +1,4 @@
-package com.test.concurrent;
+package com.test.concurrent.NotifyWait;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

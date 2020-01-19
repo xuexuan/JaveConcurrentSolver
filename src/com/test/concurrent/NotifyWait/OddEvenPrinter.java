@@ -1,4 +1,4 @@
-package com.test.concurrent;
+package com.test.concurrent.NotifyWait;
 
 public class OddEvenPrinter {
 	private int _count = 1;
